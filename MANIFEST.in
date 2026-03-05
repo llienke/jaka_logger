@@ -1,0 +1,6 @@
+include README.md
+include CHANGELOG.md
+include LICENSE
+recursive-exclude __pycache__ *
+recursive-exclude *.pyc *
+exclude .gitignore
