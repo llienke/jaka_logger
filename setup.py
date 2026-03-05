@@ -10,7 +10,7 @@ setup(
     description="Thread-safe Python logger with file, console, and callback support",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/YOUR_USERNAME/jaka_logger",
+    url="https://github.com/llienke/jaka_logger",
     packages=find_packages(exclude=["tests", "tests.*"]),
     install_requires=[],
     python_requires=">=3.5",
