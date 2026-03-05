@@ -11,19 +11,19 @@ Built for the JAKA cobot automation project. Compatible with **Python 3.5+**, no
 ### From GitHub (recommended)
 
 ```bash
-pip install git+https://github.com/YOUR_USERNAME/jaka_logger.git
+pip install git+https://github.com/llienke/jaka_logger.git
 ```
 
 To pin to a specific version tag:
 
 ```bash
-pip install git+https://github.com/YOUR_USERNAME/jaka_logger.git@v1.1.0
+pip install git+https://github.com/llienke/jaka_logger.git@v1.1.0
 ```
 
 ### From a local clone
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/jaka_logger.git
+git clone https://github.com/llienke/jaka_logger.git
 cd jaka_logger
 pip install .
 ```
